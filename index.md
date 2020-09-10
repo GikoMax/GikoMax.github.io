@@ -8,6 +8,7 @@ sitemap:
 
 
 <img src="{{ '/assets/img/logo.jpg' | prepend: site.baseurl }}" id="about-img">
+<div class="centericon">
 <div class="blob animated">
   <div class="eyes">
     <div class="eye left-eye"></div>
@@ -64,6 +65,7 @@ body.addEventListener('mousemove', (e) => {
 });
 </script>
 <div style="text-align:center;">
+</div>
 </div>
 <div id="describe-text">
 	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>

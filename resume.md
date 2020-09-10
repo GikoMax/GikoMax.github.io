@@ -4,7 +4,7 @@ title: 个人简历
 subtitle: An awesome person
 ---
 <img src="https://i.loli.net/2020/07/10/tW2fu3hFmGZVgJQ.jpg" alt="about me" class="blog-entry-img" style="height:200px;border-radius:50%">
-<div><p><h2>GikoMAX</h2></p>
+<div style="float: right"><p><h2>GikoMAX</h2></p>
 <p>
 私立华联学院在读大三生
 </p>

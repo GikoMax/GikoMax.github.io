@@ -9,7 +9,7 @@ subtitle: An awesome person
 私立华联学院在读大三生
 </p>
 </div>
-<div style="position: relative; top:-250px;left: 250px;"><span><h4><b>系别：计算机科学系</b></h4></span><span style="margin-left: 15px;"><h4><b>专业：计算机应用技术</b></h4></span></sp></div>
+<div style="position: relative; top:-250px;left: 250px;"><span><h4><b>系别：计算机科学系</b></h4></span><span style="margin-left: 15px;"><h4><b>专业：计算机应用技术</b></h4></span><span><h4><b>发展方向：目标是星辰大海以及秃头植发的全栈工程师</b></h4></span></div>
 <br>
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 下载 PDF</strong></a> </span>
 
@@ -19,44 +19,22 @@ subtitle: An awesome person
 ```稍微会修一下电脑  ```  
 
 ### 项目
-**学习阶段**  
+**目前尚处在学习阶段**  
 一点鬼项目都没有写出来过
 
 ### 教育
 
 带专人上人  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
- 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+   
+
 
 ### 经验
-
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
- 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
+- 在校学习三年，感觉一无所获
+- 在学校参与过大尚鞋业的前端制作
+- 曾复制COPY了小米商城
 
 ### 荣誉与兴趣
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- 曾获得中小学青年比骚大赛三等奖.
+

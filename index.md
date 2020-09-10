@@ -68,6 +68,6 @@ body.addEventListener('mousemove', (e) => {
 </div>
 </div>
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>一个简单的，最小的Jekyll主题为个人网页和博客，欢迎大家观看</p>
+	<p>想和我联系？当然没问题点这！ <strong> <a href="tencent://message/?uin=824356334&Site=Sambow&Menu=yes"> 联系我的QQ</a> </strong></p>
 </div>

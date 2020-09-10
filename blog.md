@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 个人博客
+subtitle: 来自Jekyll模板编写
 ---
 
 <div>

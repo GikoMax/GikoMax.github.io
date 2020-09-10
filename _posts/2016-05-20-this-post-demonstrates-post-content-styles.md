@@ -1,43 +1,46 @@
 ---
 layout: page
-title: "This post demonstrates post content styles"
-subtitle: "This is a subtitle"
-date:   2016-05-20 21:21:21 +0530
+title: "这篇文章展示了文章的内容风格"
+subtitle: "这是一个副标题"
+date:   2020-09-10 21:21:21 +0530
 categories: 正篇
 author: "Bart Simpson"
 meta: "Springfield"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+如果他在受苦，他会被认为是在帮助他。你现在不需要喝酒也不必担心。我喜欢喝一瓶牛奶，而且我更喜欢喝。
+## 一些很NICE的标题(h2)
 
-## Some great heading (h2)
+对于我的猫和猫，还有其他的。我们会注意路线的。在一个大方舟里，某物或价格，麻烦和弧线。
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
 
-## Another great heading (h2)
+你不必喝任何肉和猫。法塞勒斯和莫里斯。你需要很多珍贵的柱子。在有人喝酒之前，先捂住你的鼻子。有不同的车辆。埃涅亚嘲笑孩子，喜欢穿裙子，因为你得好好利用它。没有乌龟，没有伤害加小心，没有需要帮助。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+## 另一些比较好的标题 (h2)
 
-### Some great subheading (h3)
+如果他在受苦，他会被认为是在帮助他。你现在不需要喝酒也不必担心。我喜欢喝一瓶牛奶，而且我更喜欢喝。
+### 一些很NICE的副标题 (h3)
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
+对于我的猫和猫，还有其他的。我们会注意路线的。在一个大方舟里，某物或价格，麻烦和弧线。你不必喝任何肉和猫。
 
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+法塞勒斯和莫里斯。你需要很多珍贵的柱子。你必须在别人能戒酒之前戒酒。
 
-### Some great subheading (h3)
+### 一些很棒的小标题 (h3)
 
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+有不同的车辆。埃涅亚嘲笑孩子，喜欢穿裙子，因为你得好好利用它。没有乌龟，没有伤害加小心，没有需要帮助。
 
-> This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don't misuse it.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
 
-### Some great subheading (h3)
+>这句话会改变你的生活。它将揭示宇宙的秘密，以及人类所有的奇迹。别误用它。
 
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
 
+
+如果他在受苦，他会被认为是在帮助他。你现在不需要喝酒，因为他们很担心。
+
+### 算了有些时候没有标题其实更好玩 (h3)
+
+一杯乌龟，我更喜欢它喝得越来越多。对于我的猫和猫，还有其他的。我来负责路线。
 ```html
 <html>
   <head>
@@ -49,61 +52,3 @@ Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin con
 ```
 
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### You might want a sub-subheading (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
-
-
-
-## Headings are cool! (h2)
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit  
-
-
-With uneven columns
-
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title: 别来无恙！
+subtitle: 这里是GikoMax的个人技术博客
 sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/logo.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>

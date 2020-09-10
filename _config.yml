@@ -1,14 +1,14 @@
 # Site settings
 title: GikoMax的个人博客
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+ 这是一个利用了Jekyll写的一个弱鸡博客，请各位看官嘴下积德，主要作用是博客以及个人简介
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://GikoMax.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Pudhina
-  github: https://github.com/GikoMax/GikoMax.github.io
+  github: GikoMax/GikoMax.github.io
   email: xasd252.com@qq.com
 
 

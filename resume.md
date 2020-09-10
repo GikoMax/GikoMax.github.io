@@ -4,8 +4,13 @@ title: 个人简历
 subtitle: An awesome person
 ---
 <img src="https://i.loli.net/2020/07/10/tW2fu3hFmGZVgJQ.jpg" alt="about me" class="blog-entry-img" style="height:200px;border-radius:50%">
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 下载 PDF</strong></a> </span>
+<div><p><h2>GikoMAX</h2></p>
+<p>
+私立华联学院在读大三生
+</p>
+</div>
 <br>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 下载 PDF</strong></a> </span>
 
 
 

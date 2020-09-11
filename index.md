@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: page1
 title: 别来无恙！
 subtitle: 这里是GikoMax的个人技术博客
 sitemap:
   priority: 0.9
 ---
 
-
+<img src="https://i.loli.net/2020/07/10/tW2fu3hFmGZVgJQ.jpg" alt="about me" class="blog-entry-img" style="height:200px;border-radius:50%">
 <img src="{{ '/assets/img/logo.jpg' | prepend: site.baseurl }}" id="about-img">
 <div class="centericon">
 <div class="blob animated">

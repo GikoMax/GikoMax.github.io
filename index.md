@@ -3,7 +3,7 @@ layout: page1
 sitemap:
   priority: 0.9
 ---
-<div style="border: 5px solid white;border-radius:50%;margin-right: auto; margin-left: auto"><img src="https://i.loli.net/2020/07/10/tW2fu3hFmGZVgJQ.jpg" alt="about me" class="blog-entry-img" style="height:200px;border-radius:50%;"></div> 
+<div style="height:200px;width:200px;border-radius:50%;border: 5px solid white;margin-right: auto; margin-left: auto"><img src="https://i.loli.net/2020/07/10/tW2fu3hFmGZVgJQ.jpg" alt="about me" class="blog-entry-img" style="height:200px;border-radius:50%;margin-right: auto; margin-left: auto"></div> 
 
 <div style="margin-right: auto; margin-left: auto"><h1>GikoMax</h1></div>
 <div class="centericon">

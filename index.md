@@ -6,10 +6,10 @@ sitemap:
 <div style="height:200px;width:200px;border-radius:50%;border: 5px solid white;margin-right: auto; margin-left: auto"><img src="https://i.loli.net/2020/07/10/tW2fu3hFmGZVgJQ.jpg" alt="about me" class="blog-entry-img" style="height:200px;border-radius:50%;margin-right: auto; margin-left: auto"></div> 
 
 <div style="width: 135px;height:100px;margin-right: auto; margin-left: auto"><h1>GikoMax</h1></div>
-<div style="width: 135px;height:100px;margin-right: auto; margin-left: auto"><ul class="menu">
-     <li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">关于我</a></li>
-     <li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">小博客</a></li>
-     <li class="menu__entry"><a href="{{ '/message' | prepend: site.baseurl }}">留言板</a></li>
+<div class="midden_1"><ul class="menu">
+     <li><a href="{{ '/resume' | prepend: site.baseurl }}">关于我</a></li>
+     <li><a href="{{ '/blog' | prepend: site.baseurl }}">小博客</a></li>
+     <li><a href="{{ '/message' | prepend: site.baseurl }}">留言板</a></li>
      </ul>
      </div></div>
 <div class="centericon">

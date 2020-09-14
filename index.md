@@ -13,7 +13,7 @@ sitemap:
      <li><a href="{{ '/message' | prepend: site.baseurl }}">留言板</a></li>
      </ul>
      </div>
- <div style="border-bottom: 1px solid #a2a7ab;width:50%;height: 1px;margin-right: auto;margin-left: auto; "></div>
+ <div style="border-bottom: 2px solid #a2a7ab;width:50%;height: 1px;margin-right: auto;margin-left: auto; "></div>
 <div class="centericon">
 <div class="blob animated">
   <div class="eyes">

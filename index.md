@@ -10,7 +10,7 @@ sitemap:
 <div style="text-align: center;font-size: 40px;margin: 20px">别来无恙!欢迎访问GikoMax的个人博客</div>
 
  <div style="border-bottom: 2px solid #586672;width:25%;height: 1px;margin-right: auto;margin-left: auto; "></div>
- <div class="midden_1" style="width: 450px;height: 50px;margin: 20px auto 20px auto"><ul class="menu">
+ <div class="midden_1" style="width: 450px;height: 50px;margin: 120px auto 120px auto"><ul class="menu">
       <li><a href="{{ '/resume' | prepend: site.baseurl }}" style="border-radius: 25px;padding:5px;">关于我</a></li>
       <li><a href="{{ '/blog' | prepend: site.baseurl }}" style="border-radius: 25px;padding:5px;">小博客</a></li>
       <li><a href="{{ '/message' | prepend: site.baseurl }}" style="border-radius: 25px;padding:5px;">留言板</a></li>
@@ -22,63 +22,6 @@ sitemap:
 <a href=""><i class="fa fa-weixin" style="font-size:36px"></i></a>
 <a href="https://weibo.com/u/6100962481"><i class="fa fa-weibo" style="font-size:36px"></i></a>
 
-</div>
-<div class="centericon">
-<div class="blob animated">
-  <div class="eyes">
-    <div class="eye left-eye"></div>
-    <div class="eye right-eye"></div>
-  </div>
-  <div class="mouth"></div>
-</div>
-
-<script>
-/* 
- How can geometry
- bear affection?
- It's the purest love:
- projection.
-*/
-
-const animationType = 'headShake'
-const blob = document.querySelectorAll('.blob')[0];
-const body = document.getElementsByTagName('body')[0];
-
-blob.addEventListener('mouseenter', () => {
-  blob.classList.add(animationType);
-});
-
-blob.addEventListener('mouseleave', () => {
-  blob.classList.remove(animationType);
-});
-
-body.addEventListener('mousemove', (e) => {
-  if (e.clientY < blob.offsetHeight) {
-    blob.classList.add('look-up');
-  } else {
-    blob.classList.remove('look-up');
-  }
-  
-  if (e.clientY > (blob.offsetHeight + 150)) {
-    blob.classList.add('look-down');
-  } else {
-    blob.classList.remove('look-down');
-  }
-
-
-  if (e.clientX < (blob.offsetLeft)) {
-    blob.classList.add('look-left');
-  } else {
-    blob.classList.remove('look-left');
-  }  
-
-  if (e.clientX > (blob.offsetLeft + 235)) {
-    blob.classList.add('look-right');
-  } else {
-    blob.classList.remove('look-right');
-  }   
-});
-</script>
 <div style="text-align:center;">
 </div>
 </div>

@@ -16,7 +16,7 @@ sitemap:
       <li><a href="{{ '/message' | prepend: site.baseurl }}" style="border-radius: 25px;padding:5px;">留言板</a></li>
       </ul>
       </div>
-<div>
+<div class="ii">
 <a href="https://github.com/GikoMax/GikoMax.github.io"><i class="fa fa-github" style="font-size:36px"></i></a>
 <a href="tencent://message/?uin=824356334&Site=Sambow&Menu=yes"><i class="fa fa-qq" style="font-size:36px"></i></a>
 <a href=""><i class="fa fa-weixin" style="font-size:36px"></i></a>
@@ -82,6 +82,7 @@ body.addEventListener('mousemove', (e) => {
 <div style="text-align:center;">
 </div>
 </div>
+<audio src="./MP3/bgm.mp3" autoplay loop></audio>
 <div id="describe-text">
 	<p>一个简单的，最小的Jekyll主题为个人网页和博客，欢迎大家观看</p>
 	<p>想和我联系？当然没问题点这！ <strong> <a href="tencent://message/?uin=824356334&Site=Sambow&Menu=yes"> 联系我的QQ</a> </strong></p>

@@ -16,6 +16,13 @@ sitemap:
       <li><a href="{{ '/message' | prepend: site.baseurl }}" style="border-radius: 25px;padding:5px;">留言板</a></li>
       </ul>
       </div>
+<div>
+<i class="fa fa-github" style="font-size:36px"></i>
+<i class="fa fa-qq" style="font-size:36px"></i>
+<i class="fa fa-weixin" style="font-size:36px"></i>
+<i class="fa fa-weibo" style="font-size:36px"></i>
+
+</div>
 <div class="centericon">
 <div class="blob animated">
   <div class="eyes">

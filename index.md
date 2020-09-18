@@ -4,7 +4,7 @@ sitemap:
   priority: 0.9
 ---
 <div class="taper-line"></div>
-<div  class="ddv1" style="height:200px;width:200px;border-radius:50%;border: 5px solid white;margin-right: auto; margin-left: auto;transition-duration: 2s"><img src="https://i.loli.net/2020/07/10/tW2fu3hFmGZVgJQ.jpg" alt="about me" class="blog-entry-img" style="height:200px;border-radius:50%;margin-right: auto; margin-left: auto"></div> 
+<div  class="ddv1"><img src="https://i.loli.net/2020/07/10/tW2fu3hFmGZVgJQ.jpg" alt="about me" class="blog-entry-img" id="dd11"></div> 
 
 <div style=" color:white;width: 135px;height:100px;margin-right: auto; margin-left: auto;text-shadow:2px 2px #151515c2 "><h1>GikoMax</h1></div>
 <div style="border-top: 1px solid #586672;width:20%;height: 1px;margin-right: auto;margin-left: auto; "></div>

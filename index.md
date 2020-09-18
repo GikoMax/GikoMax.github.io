@@ -5,9 +5,9 @@ sitemap:
 ---
 <div style="height:200px;width:200px;border-radius:50%;border: 5px solid white;margin-right: auto; margin-left: auto"><img src="https://i.loli.net/2020/07/10/tW2fu3hFmGZVgJQ.jpg" alt="about me" class="blog-entry-img" style="height:200px;border-radius:50%;margin-right: auto; margin-left: auto"></div> 
 
-<div style="width: 135px;height:100px;margin-right: auto; margin-left: auto"><h1>GikoMax</h1></div>
+<div style=" color:white;width: 135px;height:100px;margin-right: auto; margin-left: auto"><h1>GikoMax</h1></div>
 <div style="border-top: 1px solid #586672;width:20%;height: 1px;margin-right: auto;margin-left: auto; "></div>
-<div style="text-align: center;font-size: 40px;margin: 20px">别来无恙!欢迎访问GikoMax的个人博客</div>
+<div style="color:white; text-align: center;font-size: 40px;margin: 20px">别来无恙!欢迎访问GikoMax的个人博客</div>
 
  <div style="border-bottom: 2px solid #586672;width:25%;height: 1px;margin-right: auto;margin-left: auto; "></div>
  <div class="midden_1" style="width: 450px;height: 50px;margin: 20px auto 20px auto"><ul class="menu">
@@ -16,6 +16,7 @@ sitemap:
       <li><a href="{{ '/message' | prepend: site.baseurl }}" style="border-radius: 25px;padding:5px;">留言板</a></li>
       </ul>
       </div>
+<div class="kong"></div>
 <div class="kong"></div>
 <div class="ii">
 <a href="https://github.com/GikoMax/GikoMax.github.io"><i class="fa fa-github" style="font-size:36px"></i></a>
@@ -27,7 +28,7 @@ sitemap:
 </div>
 </div>
 <audio src="./MP3/bgm.mp3" autoplay loop controls></audio>
-<div id="describe-text">
+<div id="describe-text" style="color:#fff">
 	<p>一个简单的，最小的Jekyll主题为个人网页和博客，欢迎大家观看</p>
-	<p>想和我联系？当然没问题点这！ <strong> <a href="tencent://message/?uin=824356334&Site=Sambow&Menu=yes"> 联系我的QQ</a> </strong></p>
+	<p>想和我联系？当然没问题点这！ <strong style="color: #55aaa9"> <a href="tencent://message/?uin=824356334&Site=Sambow&Menu=yes"> 联系我的QQ</a> </strong></p>
 </div>

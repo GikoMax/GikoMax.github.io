@@ -11,9 +11,9 @@ sitemap:
 
  <div style="border-bottom: 2px solid #586672;width:25%;height: 1px;margin-right: auto;margin-left: auto; "></div>
  <div class="midden_1" style="width: 400px;height: 50px;margin-right: auto;margin-left: auto;"><ul class="menu">
-      <li style="border: #00b0e8;border-radius: 25px"><a href="{{ '/resume' | prepend: site.baseurl }}">关于我</a></li>
-      <li style="border: #00b0e8;border-radius: 25px"><a href="{{ '/blog' | prepend: site.baseurl }}">小博客</a></li>
-      <li style="border: #00b0e8;border-radius: 25px"><a href="{{ '/message' | prepend: site.baseurl }}">留言板</a></li>
+      <li style="border:2px solid #8f99a7;border-radius: 25px;padding:5px;"><a href="{{ '/resume' | prepend: site.baseurl }}">关于我</a></li>
+      <li style="border:2px solid #8f99a7;border-radius: 25px;padding:5px;"><a href="{{ '/blog' | prepend: site.baseurl }}">小博客</a></li>
+      <li style="border:2px solid #8f99a7;border-radius: 25px;padding:5px;"><a href="{{ '/message' | prepend: site.baseurl }}">留言板</a></li>
       </ul>
       </div>
 <div class="centericon">

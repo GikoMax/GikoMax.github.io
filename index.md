@@ -10,7 +10,7 @@ sitemap:
 <div style="border-top: 1px solid #586672;width:20%;height: 1px;margin-right: auto;margin-left: auto; "></div>
 <div style="color:white; text-align: center;font-size: 40px;margin: 20px;text-shadow:2px 2px #151515c2">别来无恙!欢迎访问GikoMax的个人博客</div>
 
- <div style="border-bottom: 2px solid #586672;width:25%;height: 1px;margin-right: auto;margin-left: auto; "></div>
+ <div class="ddv1" style="border-bottom: 2px solid #586672;width:25%;height: 1px;margin-right: auto;margin-left: auto; "></div>
  <div class="midden_1" style="width: 450px;height: 50px;margin: 20px auto 20px auto"><ul class="menu">
       <li><a href="{{ '/resume' | prepend: site.baseurl }}" style="border-radius: 25px;padding:5px;">关于我</a></li>
       <li><a href="{{ '/blog' | prepend: site.baseurl }}" style="border-radius: 25px;padding:5px;">小博客</a></li>

@@ -167,7 +167,19 @@
         height: 100%;
         position: absolute;
         border: 1px solid #fff;
+        left: 0;
+        top: 0;
+        box-sizing: border-box;
+        border-radius: 50%;
+        animation: wave 1.5s infinite linear;
 
+
+    }
+    @keyframes wave {
+        to{
+            transform: scale(1.5);
+            opacity: 0;
+        }
 
     }
     .ddv1{

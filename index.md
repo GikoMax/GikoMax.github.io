@@ -10,12 +10,13 @@ sitemap:
 <div style="text-align: center;font-size: 40px;margin: 20px">别来无恙!欢迎访问GikoMax的个人博客</div>
 
  <div style="border-bottom: 2px solid #586672;width:25%;height: 1px;margin-right: auto;margin-left: auto; "></div>
- <div class="midden_1" style="width: 450px;height: 50px;margin: 120px auto 120px auto"><ul class="menu">
+ <div class="midden_1" style="width: 450px;height: 50px;margin: 20px auto 20px auto"><ul class="menu">
       <li><a href="{{ '/resume' | prepend: site.baseurl }}" style="border-radius: 25px;padding:5px;">关于我</a></li>
       <li><a href="{{ '/blog' | prepend: site.baseurl }}" style="border-radius: 25px;padding:5px;">小博客</a></li>
       <li><a href="{{ '/message' | prepend: site.baseurl }}" style="border-radius: 25px;padding:5px;">留言板</a></li>
       </ul>
       </div>
+<div class="kong"></div>
 <div class="ii">
 <a href="https://github.com/GikoMax/GikoMax.github.io"><i class="fa fa-github" style="font-size:36px"></i></a>
 <a href="tencent://message/?uin=824356334&Site=Sambow&Menu=yes"><i class="fa fa-qq" style="font-size:36px"></i></a>

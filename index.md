@@ -82,7 +82,7 @@ body.addEventListener('mousemove', (e) => {
 <div style="text-align:center;">
 </div>
 </div>
-<audio src="./MP3/bgm.mp3" autoplay loop></audio>
+<audio src="./MP3/bgm.mp3" autoplay loop controls></audio>
 <div id="describe-text">
 	<p>一个简单的，最小的Jekyll主题为个人网页和博客，欢迎大家观看</p>
 	<p>想和我联系？当然没问题点这！ <strong> <a href="tencent://message/?uin=824356334&Site=Sambow&Menu=yes"> 联系我的QQ</a> </strong></p>

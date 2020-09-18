@@ -17,10 +17,10 @@ sitemap:
       </ul>
       </div>
 <div>
-<i class="fa fa-github" style="font-size:36px"></i>
-<i class="fa fa-qq" style="font-size:36px"></i>
-<i class="fa fa-weixin" style="font-size:36px"></i>
-<i class="fa fa-weibo" style="font-size:36px"></i>
+<a href="https://github.com/GikoMax/GikoMax.github.io"><i class="fa fa-github" style="font-size:36px"></i></a>
+<a href="tencent://message/?uin=824356334&Site=Sambow&Menu=yes"><i class="fa fa-qq" style="font-size:36px"></i></a>
+<a href=""><i class="fa fa-weixin" style="font-size:36px"></i></a>
+<a href="https://weibo.com/u/6100962481"><i class="fa fa-weibo" style="font-size:36px"></i></a>
 
 </div>
 <div class="centericon">

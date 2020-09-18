@@ -7,13 +7,13 @@ sitemap:
 
 <div style="width: 135px;height:100px;margin-right: auto; margin-left: auto"><h1>GikoMax</h1></div>
 <div style="border-top: 1px solid #586672;width:20%;height: 1px;margin-right: auto;margin-left: auto; "></div>
-<div style="text-align: center;font-size: 40px;margin: auto">别来无恙!欢迎访问GikoMax的个人博客</div>
+<div style="text-align: center;font-size: 40px;margin: 20px">别来无恙!欢迎访问GikoMax的个人博客</div>
 
  <div style="border-bottom: 2px solid #586672;width:25%;height: 1px;margin-right: auto;margin-left: auto; "></div>
  <div class="midden_1" style="width: 400px;height: 50px;margin-right: auto;margin-left: auto;"><ul class="menu">
-      <li><a href="{{ '/resume' | prepend: site.baseurl }}">关于我</a></li>
-      <li><a href="{{ '/blog' | prepend: site.baseurl }}">小博客</a></li>
-      <li><a href="{{ '/message' | prepend: site.baseurl }}">留言板</a></li>
+      <li style="border: #00b0e8;border-radius: 25px"><a href="{{ '/resume' | prepend: site.baseurl }}">关于我</a></li>
+      <li style="border: #00b0e8;border-radius: 25px"><a href="{{ '/blog' | prepend: site.baseurl }}">小博客</a></li>
+      <li style="border: #00b0e8;border-radius: 25px"><a href="{{ '/message' | prepend: site.baseurl }}">留言板</a></li>
       </ul>
       </div>
 <div class="centericon">

@@ -1,10 +1,12 @@
 <header class="header header_t">
+    <div class="taper-line"></div>
 <div class="navigation">
-<a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
-<ul class="menu">
-<li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">关于我</a></li>
-<li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">小博客</a></li>
-<li class="menu__entry"><a href="{{ '/message' | prepend: site.baseurl }}">留言板</a></li>
+<ul class="menu__entry">
+    <a href="{{ '/' | prepend: site.baseurl }}" class="logo">
+        <i class="fa fa-desktop"></i>{{ site.title }}</a>
+<li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}"><i class="fa fa-drivers-license-o"></i>关于我</a></li>
+<li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}"><i class="fa fa-edit"></i>小博客</a></li>
+<li class="menu__entry"><a href="{{ '/message' | prepend: site.baseurl }}"><i class="fa fa-commenting-o"></i>留言板</a></li>
 </ul>
 </div>
 <ul class="social-links">

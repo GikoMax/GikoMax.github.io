@@ -52,7 +52,9 @@
   .header {
     background: url("../img/tim.png");
     background-repeat: no-repeat;
-    overflow: hidden; }
+    overflow: hidden;
+    width: 200px;
+  }
 
   .navigation {
     float: left; }
@@ -93,7 +95,11 @@
 /* =Titles *//*************************************************************/
   .page-title {
     margin: 30px auto;
-    text-align: center; }
+    text-align: center;
+    width: 480px;
+    background: url("../img/timg.gif");
+    margin-bottom: 20px;
+  }
 
   .page-title__text {
     font-weight: 700;

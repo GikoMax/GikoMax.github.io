@@ -4,7 +4,7 @@ title: 个人博客
 subtitle: 来自Jekyll模板编写
 ---
 
-<div class="cs1 mar-zero">
+<div class="cs1 mar-zero div-shadow">
 {% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
 {% for category in postsCategory %}
 <h4 class="post-teaser__month">

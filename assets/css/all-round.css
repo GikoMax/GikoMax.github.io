@@ -69,3 +69,9 @@
     height: 110px;
     
 }
+.div-shadow{
+    box-shadow: 5px 5px 5px #8e8e8e;
+}
+.div-radius{
+    border-radius: 25px 25px 25px 25px;
+}

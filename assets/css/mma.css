@@ -4,9 +4,17 @@
     padding-right: 20px;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
+    background-position: 100% 100%;
 }
 .cs1{
+    padding-left: 10px;
+    padding-right: 10px;
     max-width: 480px;
     background-color: #f4fbf4;
     border-radius: 25px 25px 25px 25px;
+    transition: all .2s linear;
+}
+.cs1:hover{
+    transition: all .2s linear;
+    transform: translate3d(0,-6px,0);
 }

@@ -46,7 +46,9 @@
 
   .wrapper {
     max-width: 90%;
-    margin: 60px auto; }
+    margin: 60px auto;
+    margin-top:400px;
+  }
 
 /* =Header *//*************************************************************/
   .header {

@@ -1,0 +1,12 @@
+.header_t {
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+。cs1{
+    max-width: 480px;
+    background-color: #f4fbf4;
+    border-radius: 25px 25px 25px 25px;
+}

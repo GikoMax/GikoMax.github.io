@@ -50,9 +50,8 @@
 
 /* =Header *//*************************************************************/
   .header {
-    background: url("../img/timg.gif");
+    background: url("../img/tim.png");
     background-repeat: no-repeat;
-    background-size: 10%;
     overflow: hidden; }
 
   .navigation {

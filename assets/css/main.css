@@ -53,7 +53,7 @@
     background: url("../img/tim.png");
     background-repeat: no-repeat;
     overflow: hidden;
-    width: 200px;
+    height: 200px;
   }
 
   .navigation {
@@ -98,6 +98,10 @@
     text-align: center;
     width: 480px;
     background: url("../img/timg.gif");
+    background-size: 40%;
+    background-position: 100% 30%;
+    background-color: #fcfcfb;
+    background-repeat: no-repeat;
     margin-bottom: 20px;
   }
 

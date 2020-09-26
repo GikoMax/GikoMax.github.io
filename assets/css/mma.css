@@ -12,9 +12,15 @@
     max-width: 480px;
     background-color: #f4fbf4;
     border-radius: 25px 25px 25px 25px;
+
+}
+
+。cs2{
     transition: all .2s linear;
+
 }
 .cs1:hover{
     transition: all .2s linear;
     transform: translate3d(0,-6px,0);
+    box-shadow: 7px 9px 5px #3f4446;
 }

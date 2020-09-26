@@ -9,6 +9,8 @@ subtitle: 来自Jekyll模板编写
 <div class="mar-zero">
 <img src="https://i.loli.net/2020/07/10/tW2fu3hFmGZVgJQ.jpg" alt="">
 </div>
+<p>GikoMax</p>
+<p>一条没技术的咸鱼</p>
 </div>
 
 </div>

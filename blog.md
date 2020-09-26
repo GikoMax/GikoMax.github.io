@@ -3,11 +3,6 @@ layout: page
 title: 个人博客
 subtitle: 来自Jekyll模板编写
 ---
-<div>
-<video loop reload="auto" width="100%">
-<source src="./assets/video/1123.mp4" type="video/mp4">
-</video>
-</div>
 <div class="box12 div-shadow div-radius">
 <div class="bg22"></div>
 <div class="div-ai-center div-fd-column  div-stWidth">

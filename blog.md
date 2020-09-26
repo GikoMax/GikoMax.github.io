@@ -5,11 +5,10 @@ subtitle: 来自Jekyll模板编写
 ---
 <div class="box12 div-shadow div-radius">
 <div class="bg22"></div>
-<div class="div-ai-center">
-<div>
+<div class="div-ai-center div-fd-column  div-stWidth">
+<div class="mar-zero">
 <img src="https://i.loli.net/2020/07/10/tW2fu3hFmGZVgJQ.jpg" alt="">
 </div>
-<p>GikoMax</p>
 </div>
 
 </div>

@@ -47,7 +47,7 @@
   .wrapper {
     max-width: 90%;
     margin: 60px auto;
-    margin-top:400px;
+    margin-top:320px;
   }
 
 /* =Header *//*************************************************************/
@@ -99,12 +99,8 @@
     margin: 30px auto;
     text-align: center;
     width: 480px;
-    background: url("../img/timg.gif");
-    background-size: 40%;
-    background-position: 100% 30%;
-    background-color: #fcfcfb;
-    background-repeat: no-repeat;
-    margin-bottom: 20px;
+    color: #fff;
+    margin-top: 60px;
   }
 
   .page-title__text {

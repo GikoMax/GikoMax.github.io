@@ -24,8 +24,16 @@
     transform: translate3d(0,-6px,0);
     box-shadow: 7px 9px 5px #3f4446;
 }
-
 .box12{
-    width: 120px;
-    height: 100px;
+    float: left;
+    width:320px;
+    background-color: #ffffff;
+}
+.bg22{
+    width: 320px;
+    height: 120px;
+    background: url("../img/shasha.jpg");
+}
+.box12 img{
+    border-radius: 50%;
 }

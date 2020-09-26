@@ -50,10 +50,10 @@
 
 /* =Header *//*************************************************************/
   .header {
-    background: url("../img/tim.png");
-    background-repeat: no-repeat;
     overflow: hidden;
-    height: 80px;
+    height: 60px;
+    background-color: hsl(0deg 0% 92% / 38%);
+
   }
 
   .navigation {
@@ -83,7 +83,7 @@
     font-weight: 400; }
 
   .social-links {
-    float: right;
+    margin-left: 50px;
     font-size: 150%;
     color: #828282;
     list-style-type: none; }

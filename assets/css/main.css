@@ -47,6 +47,11 @@
   .wrapper {
     max-width: 90%;
     margin: 60px auto;
+  }
+
+  .wrapper1{
+    max-width: 90%;
+    margin: 60px auto;
     margin-top:320px;
   }
 
@@ -118,6 +123,7 @@
     padding: 0px; }
 
   .post-teaser {
+    height: 200px;
     margin-bottom: 15px;
     font-weight: 700; }
 

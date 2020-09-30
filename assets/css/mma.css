@@ -60,6 +60,12 @@
     background: #f4fbf4;
     margin: 0 auto;
     max-width: 900px;
+    padding: 0 30px;
     border-radius: 25px 25px 25px 25px;
+    margin-left: 30px;
 
+}
+.wrapper11{
+    max-width: 95%;
+    margin: 60px auto;
 }

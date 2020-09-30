@@ -30,10 +30,6 @@
     margin: auto 15px;
 
 }
-.div-fd-column{
-    display: flex;
-    flex-direction: column;
-}
 
 .div-floatleft{
     float: left;
@@ -73,9 +69,18 @@
     height: 110px;
     
 }
-.div-shadow{
-    box-shadow: 5px 5px 5px #8e8e8e;
+.text-decoration-none{
+    text-decoration: none;
 }
-.div-radius{
-    border-radius: 25px 25px 25px 25px;
+.background-int{
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.div-fd-row{
+    display: flex;
+    flex-direction: row;
+}
+.div-fw-wrap{
+    display: flex;
+    flex-wrap: wrap;
 }

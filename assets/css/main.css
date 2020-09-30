@@ -458,5 +458,7 @@
 
   .wrapper123{
     background: #f4fbf4;
+    margin: 0 auto;
+    max-width: 1200px;
 
   }

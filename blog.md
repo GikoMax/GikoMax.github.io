@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page3
 title: 个人博客
 subtitle: 来自Jekyll模板编写
 ---

@@ -94,4 +94,8 @@
     display: flex;
     flex-direction: column;
 }
+.div-ai-start{
+    display: flex;
+    align-items: flex-start;
+}
 

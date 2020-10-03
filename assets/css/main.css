@@ -53,6 +53,7 @@
     max-width: 90%;
     margin: 60px auto;
     margin-top:320px;
+    overflow: hidden;
   }
 
 /* =Header *//*************************************************************/

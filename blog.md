@@ -3,6 +3,7 @@ layout: page3
 title: 个人博客
 subtitle: 来自Jekyll模板编写
 ---
+<div>
 <div class="box12 div-shadow div-radius">
 <div class="bg22"></div>
 <div class="div-ai-center div-fd-column  div-stWidth">
@@ -13,6 +14,7 @@ subtitle: 来自Jekyll模板编写
 <p>一条没技术的咸鱼</p>
 </div>
 
+</div>
 </div>
 <div class="cs1 cs2 mar-zero div-shadow">
 {% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
@@ -38,7 +40,10 @@ subtitle: 来自Jekyll模板编写
 </ul>
 {% endfor %}
 </div>
+<div>
 <div class="box1231 div-shadow div-radius">
  <h4 class="as1">公告栏</h4>
- <div>2020-10-3更新 主页大更新</div>
+ <div>2020-10-3更新 主页大更新<br>留言区暂时未开放更多功能请敬请期待
+ </div>
+</div>
 </div>

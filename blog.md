@@ -38,3 +38,7 @@ subtitle: 来自Jekyll模板编写
 </ul>
 {% endfor %}
 </div>
+<div class="box1231 div-shadow">
+ <h4 class="as1">公告栏</h4>
+ <div>2020-10-3更新 主页大更新</div>
+</div>

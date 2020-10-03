@@ -57,6 +57,7 @@
 
 .wrapper123{
     background: url("../img/bg.png");
+    background-size: cover;
     margin: 0 auto;
     padding:30px 30px;
     border-radius: 25px 25px 25px 25px;
@@ -82,7 +83,6 @@
     transition: all .2s linear;
 }
 .blog-entry-img:hover{
-    transition: all .2s linear;
-    width: 400px;
+    transform: scale(1.2);
 
 }

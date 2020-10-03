@@ -42,8 +42,11 @@ subtitle: 来自Jekyll模板编写
 </div>
 <div>
 <div class="box1231 div-shadow div-radius">
- <h4 class="as1">公告栏</h4>
- <div>2020-10-3更新 主页大更新<br>留言区暂时未开放更多功能请敬请期待
+ <h4 class="as1">公告日志</h4>
+ <div>2020-10-3个人简介页面更新 添加头像hover效果 做出技能点进度条
+ <br>2020-10-3更新 主页大更新<br>留言区暂时未开放更多功能请敬请期待
+ <br>2020-9-20 完全修改index页面 修改主页效果为当前模样
+
  </div>
 </div>
 </div>

@@ -84,3 +84,14 @@
     display: flex;
     flex-wrap: wrap;
 }
+.div-shadow{
+    box-shadow: 5px 5px 5px #8f8f8f;
+}
+.div-radius{
+     border-radius: 25px 25px 25px 25px;
+}
+.div-fd-column{
+    display: flex;
+    flex-direction: column;
+}
+

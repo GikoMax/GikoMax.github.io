@@ -25,6 +25,7 @@
     width:320px;
     background-color: #ffffff;
     margin-right: 10px;
+    margin-bottom: 20px;
 }
 .bg22{
     width: 320px;
@@ -85,4 +86,7 @@
 .blog-entry-img:hover{
     transform: scale(1.2);
 
+}
+.bbx1{
+    max-width: 320px;
 }

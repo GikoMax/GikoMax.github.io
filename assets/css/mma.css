@@ -56,12 +56,10 @@
 }
 
 .wrapper123{
-    background: url("../img/bg.png");
-    background-size: cover;
+    background-color: #fff;
     margin: 0 auto;
     padding:30px 30px;
     border-radius: 25px 25px 25px 25px;
-    margin-left: 360px;
     width: 70%;
 
 }
@@ -93,7 +91,7 @@
 }
 .box111{
     margin-top: 20px;
-    width: 320px;
+    width: 291px;
     background-color: #ffffff;
     margin-right: 10px;
     padding: 12px 16px;

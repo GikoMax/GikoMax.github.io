@@ -56,7 +56,9 @@
 }
 
 .wrapper123{
-    background-color: #fff;
+    background:url("../img/bg4.png");
+    background-repeat: no-repeat;
+    background-size: 80%;
     margin: 0 auto;
     padding:30px 30px;
     border-radius: 25px 25px 25px 25px;

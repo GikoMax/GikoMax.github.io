@@ -64,7 +64,12 @@
   }
 
   .navigation {
-    float: left; }
+    float: left;
+    margin: 10px;
+  }
+  .navigation a:hover{
+    color: #fff;
+  }
 
   .logo {
     font-size: 300%;
@@ -93,7 +98,10 @@
     margin-left: 50px;
     font-size: 150%;
     color: #828282;
-    list-style-type: none; }
+    list-style-type: none;
+    margin: 10px;
+    float: right;
+  }
 
   .social-links__entry {
     display: inline-block;
